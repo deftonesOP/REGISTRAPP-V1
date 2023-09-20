@@ -1,2 +1,2 @@
 # REGISTRAPP-V1
- viejitoos
+ Registrar alumnos a una lista virtual
